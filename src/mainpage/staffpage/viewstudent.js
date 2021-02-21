@@ -18,8 +18,8 @@ const studenlist = (studenlist) => {
   if (studenlist !== undefined) {
     return Object.values(studenlist).map((i) => {
       let fine = 0;
-      if (0 > moment(i.reciveddate).diff(moment(), "days")) {
-        fine = -moment(i.reciveddate).diff(moment(), "days") * 10;
+      if (0 > moment(i.submitiondata).diff(moment(), "days")) {
+        fine = -moment(i.submitiondata).diff(moment(), "days") * 10;
       }
       console.log(i);
       return (

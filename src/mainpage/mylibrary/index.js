@@ -9,13 +9,13 @@ const booklist = (userinfo) => {
   if (userinfo.feild.recivebooks !== undefined) {
     return Object.values(userinfo.feild.recivebooks).map((i) => {
       var type;
-      if (0 > moment(i.reciveddate).diff(moment(), "days")) {
+      if (0 > moment(i.submitiondata).diff(moment(), "days")) {
         type = "danger";
       } else {
         type = "warning";
       }
       console.log(
-        0 > moment(i.reciveddate).diff(moment(), "days"),
+        0 > moment(i.submitiondata).diff(moment(), "days"),
         moment().format("DD-MM-YYYY")
       );
       return (
