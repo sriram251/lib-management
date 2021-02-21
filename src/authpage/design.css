@@ -1,0 +1,34 @@
+.authpage {
+  width: 100%;
+  box-sizing: border-box;
+  align-items: center;
+  background-color: #43a3dd;
+}
+.entry-comp {
+  z-index: 1;
+  width: 250px;
+}
+.signbutton {
+  padding: 0;
+}
+.heading {
+  padding-top: 8px;
+}
+.popscreen {
+  position: relative;
+  top: 25%;
+  min-width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 3px #efe9f4;
+  background-color: #effffa;
+}
+.component {
+  margin: 40px;
+}
+.button {
+  display: block;
+}
+.forget {
+  padding: 20px;
+  text-align: start;
+}

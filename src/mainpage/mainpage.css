@@ -1,0 +1,49 @@
+.top-nav {
+  width: 100%;
+  height: 60px;
+  background-color: #13293d;
+  display: flex;
+}
+.nav {
+  z-index: 0;
+}
+.logo-img {
+  margin: 10px;
+}
+.menu-button {
+  margin-left: 2px;
+  color: white;
+}
+.login-button {
+  align-items: flex-end;
+  margin-left: auto;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding: 0 10px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  height: 31px;
+  font-weight: 2px;
+  background-color: white;
+  color: #16001e;
+  align-self: center;
+  transition: all 250ms;
+}
+.login-button:hover {
+  background-color: #e5e7e6;
+  color: #022f40;
+}
+.title {
+  margin-top: 9px;
+  padding: 4px 15px;
+  color: #f6f4f3;
+}
+.sidenavitem {
+  width: 250px;
+  text-align: center;
+}
+.auth-card {
+  z-index: 1;
+  background-color: blueviolet;
+}

@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap");
+.staffpage {
+  height: 91vh;
+  overflow: hidden;
+  background-color: #eef5db;
+}
+.menu-list li a {
+  text-decoration: none;
+  color: #e8f7ee;
+}
+.staff-menu {
+  height: 100vh;
+  overflow: hidden;
+  text-align: center;
+  color: #e8f7ee;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  padding: 0;
+  background-color: #3f84e5;
+}
+.menu-list {
+  padding: 0;
+}
+.menu-list li {
+  display: flex;
+  width: 100%;
+  list-style: none;
+  padding: 4px 15px;
+  transition: all 500ms;
+  justify-content: space-evenly;
+}
+
+.menu-list li:hover {
+  background-color: #fcfffc;
+  color: #090c9b;
+}
+#MENU-title {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  justify-content: center;
+}
+.start-result {
+  height: 91vh;
+  overflow-y: scroll;
+}
+.book-container {
+  margin: 2px 0px;
+  width: 100%;
+  border: 1px solid #090c9b;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.books-data {
+  margin: 10px;
+  padding: 0;
+}
+.thumbnailimg {
+  width: 150px;
+  height: 150px;
+  transition: transform 450ms;
+}
+.thumbnailimg:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
+.detail-discription {
+  position: absolute;
+  width: 93%;
+  background-color: #39a0ed;
+  border-radius: 5px;
+  border: 2px solid #011627;
+  padding: 5px;
+  z-index: 1;
+
+  left: 4%;
+}
+.Title {
+  font-size: 20px;
+}
+.search-type {
+  width: 100%;
+  text-align: center;
+}
+.search-type input {
+  width: 80%;
+  margin: 10px 0px;
+  text-align: center;
+  border: none;
+}
+.search-type select {
+  width: 80%;
+  margin: 10px 0px;
+  text-align: center;
+  border: none;
+}
+.detail-content {
+  width: 100%;
+}
+.detail-discription-image {
+  text-align: center;
+  justify-content: center;
+}
+@media screen and (max-width: 576px) {
+  .staff-menu {
+    height: 30px;
+    transition: height 750ms;
+  }
+  .staff-menu:hover {
+    height: 340px;
+  }
+}

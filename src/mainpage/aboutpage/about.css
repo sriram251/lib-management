@@ -1,0 +1,62 @@
+.caption-text {
+  padding-left: 40px;
+  color: #191d32;
+}
+html,
+body {
+  height: 100%;
+}
+.about-page {
+  width: 100%;
+  height: 93vh;
+  padding: 30px 0px;
+  background-image: linear-gradient(to left, #00c6ff, #0072ff);
+}
+.userDetail {
+  margin-top: 10px;
+}
+.submit-button {
+  margin-left: auto;
+  margin-right: 20px;
+}
+.image-palce {
+  justify-content: center;
+  text-align: center;
+}
+.profileimage {
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.file-input {
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-img {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.datalist {
+  height: 150px;
+  overflow-y: scroll;
+}
+.user-window {
+  position: relative;
+  margin: auto;
+  padding: 40px 0;
+  padding-top: 20px;
+  top: 2%;
+  width: 60%;
+  height: fit-content;
+  border-radius: 10px;
+  justify-content: space-around;
+  background-color: #e8f0ff;
+}
+@media screen and (max-width: 360px) {
+  .user-window {
+    width: 90%;
+  }
+}

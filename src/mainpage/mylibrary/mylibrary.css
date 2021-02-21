@@ -1,0 +1,45 @@
+.MyBook {
+  height: 93vh;
+}
+.userinfo-comp {
+  background-color: #e9ecef;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.fineammout {
+  background-color: #d63230;
+  padding: 5px 10px;
+  border-radius: 11px;
+  margin-left: auto;
+  margin-right: 10px;
+}
+.profilepic {
+  width: 100px;
+  height: 120px;
+  margin-left: 10px;
+  border: 2px solid #4361ee;
+}
+.tabledata {
+  margin: 10px;
+  background-color: #d9dbdd;
+  border-radius: 2px;
+  overflow-x: scroll;
+}
+
+.name {
+  display: inline-block;
+  margin: 20px;
+}
+@media screen and (max-width: 400px) {
+  .userinfo-comp {
+    flex-direction: column;
+  }
+  .fineammout {
+    margin: auto;
+  }
+  .name {
+    display: block;
+    margin: 5px;
+  }
+}

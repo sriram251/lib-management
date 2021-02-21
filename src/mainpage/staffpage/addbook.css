@@ -1,0 +1,27 @@
+.add-book-container {
+  width: 100%;
+  height: 91vh;
+
+  background-color: #f1e4e8;
+}
+.authors-comp {
+  margin: 10px;
+}
+.submit {
+  margin: auto 0;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+}
+.row-comp {
+  margin: 0;
+}
+.image-comp {
+  margin-top: 20px;
+}
+.file-input {
+  text-align: center;
+}
+.shortdiscription {
+  margin-bottom: 15px;
+}
