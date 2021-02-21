@@ -1,0 +1,1386 @@
+{
+  "bookdata" : {
+    "books" : {
+      "131271687" : {
+        "authors" : [ "Daniel C. Lynch", "James P. Gray", "and Edward Rabinovitch", "editors" ],
+        "isbn" : "131271687",
+        "pageCount" : 540,
+        "shortDescription" : "SNA and TCP/IP Enterprise Networking shows the reader how enterprise networking evolved, what approaches and techniques can be used today, and where tomorrow's trends lie, illustrating among others Web-to-SNA connectivity and Java based integration approaches.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lynch.jpg",
+        "title" : "SNA and TCP/IP Enterprise Networking",
+        "totalbooks" : 5
+      },
+      "132612313" : {
+        "authors" : [ "Timothy D. Korson", "Vijay K. Vaishnavi" ],
+        "isbn" : "132612313",
+        "pageCount" : 200,
+        "shortDescription" : "Object Technology Centers of Excellence provides guidance to those charged with managing the shift to object technology. It is the only book on the market aimed not at the project level but at the corporate level, with a focus on the infrastructures necessary for a successful transition.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/korson.jpg",
+        "title" : "Object Technology Centers of Excellence",
+        "totalbooks" : 5
+      },
+      "132621894" : {
+        "authors" : [ "Daniel Minoli", "Thomas W. Golway", "", "Norris P. Smith" ],
+        "isbn" : "132621894",
+        "pageCount" : 320,
+        "shortDescription" : "Planning and Managing ATM Networks covers strategic planning, initial deployment, overall management, and the day-to-day operation of ATM networks.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/minoli.jpg",
+        "title" : "Planning and Managing ATM Networks",
+        "totalbooks" : 4
+      },
+      "132623129" : {
+        "authors" : [ "Ronny Richardson" ],
+        "isbn" : "132623129",
+        "pageCount" : 480,
+        "shortDescription" : "Microsoft Office Essentials simply covers the things you really want to know and skips over all those esoteric features that 99 out of 100 readers never use.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/richardson2.jpg",
+        "title" : "Microsoft Office Essentials",
+        "totalbooks" : 5
+      },
+      "132632942" : {
+        "authors" : [ "Bruce Simpson", "John Mitchell", "Brian Christeson", "Rehan Zaidi", "", "Jonathan Levine" ],
+        "isbn" : "132632942",
+        "pageCount" : 180,
+        "shortDescription" : "Making Sense of Java clearly and concisely explains the concepts, features, benefits, potential, and limitations of Java.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/simpson.jpg",
+        "title" : "Making Sense of Java",
+        "totalbooks" : 4
+      },
+      "132869985" : {
+        "authors" : [ "Richard Scott Mark" ],
+        "isbn" : "132869985",
+        "pageCount" : 400,
+        "shortDescription" : "Internet BBSs: A Guided Tour provides in-depth coverage of the new world of true BBSs now available world-wide. It is a valuable resource for anyone currently using the Internet.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mark.jpg",
+        "title" : "Internet BBSs",
+        "totalbooks" : 5
+      },
+      "133964256" : {
+        "authors" : [ "Harold Lorin" ],
+        "isbn" : "133964256",
+        "pageCount" : 350,
+        "shortDescription" : "Doing IT Right explores IT in its full complexity. It explains fundamental issues of hardware and software structures; it illuminates central issues of networking and encapsulates the essence of client/server computing; its coverage of costing, risk assessment, and due diligence in making computing decisions is unique.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lorin.jpg",
+        "title" : "Doing IT Right",
+        "totalbooks" : 6
+      },
+      "134529308" : {
+        "authors" : [ "Trygve Reenskaug" ],
+        "isbn" : "134529308",
+        "pageCount" : 420,
+        "shortDescription" : "\"The first method that deals realistically with reuse, and one of the few that comes close to describing what I do when I design.\" --Ralph Johnson, University of Illinois",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/reenskaug.jpg",
+        "title" : "Working with Objects",
+        "totalbooks" : 4
+      },
+      "137353006" : {
+        "authors" : [ "Daniel Minoli", "Andrew Schmidt" ],
+        "isbn" : "137353006",
+        "pageCount" : 350,
+        "shortDescription" : "Client/Server Appliactions on ATM Networks discusses ATM as the key technology for transforming the enterprise network from data-only to an integrated data, voice, video, image and multimedia corporate infrastructure.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/minoli2.jpg",
+        "title" : "Client/Server Applications on ATM Networks",
+        "totalbooks" : 6
+      },
+      "138411808" : {
+        "authors" : [ "Early Stephens" ],
+        "isbn" : "138411808",
+        "pageCount" : 220,
+        "shortDescription" : "Implementing PeopleSoft Financials discusses the issues that arise and the pitfalls to avoid. Every member of the implementation team--from entry-level accounting clerk through MIS staff to executive sponsors--will benefit from reading this book.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/stephens.jpg",
+        "title" : "Implementing PeopleSoft Financials",
+        "totalbooks" : 5
+      },
+      "138892709" : {
+        "authors" : [ "Andrew Schmidt", "Daniel Minoli" ],
+        "isbn" : "138892709",
+        "pageCount" : 341,
+        "shortDescription" : "With the detailed coverage of the entire set of protocols in Multiprotocol over ATM, you can be equal to the task.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/schmidt.jpg",
+        "title" : "Multiprotocol over ATM",
+        "totalbooks" : 5
+      },
+      "1617290017" : {
+        "authors" : [ "Jocelyn Harrington", "Brandon Trebitowski", "Christopher Allen", "", "Shannon Appelcline" ],
+        "isbn" : "1617290017",
+        "pageCount" : 504,
+        "shortDescription" : "iOS 4 in Action, written for Xcode 4, is a detailed, hands-on guide that goes from setting up your development environment, through your first coding steps, all the way to creating a polished, commercial iOS 4 application. You'll run through examples from a variety of areas including a chat client, a video game, an interactive map, and background audio. You'll also learn how the new iOS 4 features apply to your existing iOS 3 based apps. This book will help you become a confident, well-rounded iOS 4 developer.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jharrington.jpg",
+        "title" : "iOS 4 in Action",
+        "totalbooks" : 6
+      },
+      "1617290092" : {
+        "authors" : [ "Timothy Binkley-Jones", "Massimo Perga", "", "Michael Sync" ],
+        "isbn" : "1617290092",
+        "pageCount" : 0,
+        "shortDescription" : "Windows Phone 7 in Action is a hands-on guide to building mobile applications for WP7 using Silverlight, C#, and XNA. Written for developers who already know their way around Visual Studio, this book zips through the basics, such as writing code to dial the phone, writing emails, and sending text messages, and moves on to the nuts and bolts of building great phone apps. By working through the numerous examples and tutorials, you'll master the APIs used to work with a phone's sensors and hardware, such as the accelerometer, camera, touch screen, GPS, and microphone. You'll also tackle web services and applications that use location and push notification services.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/perga.jpg",
+        "title" : "Windows Phone 7 in Action",
+        "totalbooks" : 6
+      },
+      "1617290149" : {
+        "authors" : [ "Wynn Netherland", "Nathan Weizenbaum", "Chris Eppstein", "", "Brandon Mathis" ],
+        "isbn" : "1617290149",
+        "pageCount" : 300,
+        "shortDescription" : "Sass and Compass in Action is the definitive guide to stylesheet authoring using these two revolutionary tools. Written for both designers and developers, this book demonstrates the power of both Sass and Compass through a series of examples that address common pain points associated with traditional stylesheet authoring. The book begins with simple topics such as CSS resets and moves on to more involved topics such as grid frameworks and CSS3 vendor implementation differences.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/netherland.jpg",
+        "title" : "Sass and Compass in Action",
+        "totalbooks" : 6
+      },
+      "1617290181" : {
+        "authors" : [ "Peter Harrington" ],
+        "isbn" : "1617290181",
+        "pageCount" : 0,
+        "shortDescription" : "Machine Learning in Action is a unique book that blends the foundational theories of machine learning with the practical realities of building tools for everyday data analysis. In it, you'll use the flexible Python programming language to build programs that implement algorithms for data classification, forecasting, recommendations, and higher-level features like summarization and simplification.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pharrington.jpg",
+        "title" : "Machine Learning in Action",
+        "totalbooks" : 5
+      },
+      "1617290211" : {
+        "authors" : [ "Don Jones" ],
+        "isbn" : "1617290211",
+        "pageCount" : 0,
+        "shortDescription" : "Learn Windows PowerShell in a Month of Lunches is an innovative tutorial designed for busy administrators. Author Don Jones has taught thousands of administrators to use PowerShell, and now he'll teach you, bringing his years of training techniques to a concise, easy-to-follow book. Just set aside one hour a day   lunchtime would be perfect   for an entire month, and you'll be automating administrative tasks faster than you ever thought possible. Don combines his own in-the-trenches experience with years of PowerShell instruction to deliver the most important, effective, and engaging elements of PowerShell to you quickly and painlessly, setting you on the path to a career-boosting future.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones.jpg",
+        "title" : "Learn Windows PowerShell in a Month of Lunches",
+        "totalbooks" : 5
+      },
+      "1617290246" : {
+        "authors" : [ "Martin Evans", "Joshua Noble", "", "Jordan Hochenbaum" ],
+        "isbn" : "1617290246",
+        "pageCount" : 300,
+        "shortDescription" : "Arduino in Action is a hands-on guide to prototyping and building electronics using the Arduino platform. Suitable for beginners and advanced users, this easy to follow book begins with the basics and systematically guides you through projects ranging from your first blinking LED through connecting Arduino to devices like game controllers or your iPhone.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mevans.jpg",
+        "title" : "Arduino in Action",
+        "totalbooks" : 6
+      },
+      "1617290416" : {
+        "authors" : [ "Jeffrey Palermo", "Jimmy Bogard", "Eric Hexter", "Matthew Hinze", "", "Jeremy Skinner" ],
+        "isbn" : "1617290416",
+        "pageCount" : 450,
+        "shortDescription" : "SP.NET MVC 3 in Action is a fast-paced tutorial designed to introduce ASP.NET MVC to .NET developers and show how to apply it effectively. After a high-speed ramp up, the book explores key topics like validation, routing, and data access. Each topic is illustrated with its own example so it's easy to dip into the book without reading in sequence. This book also covers some high-value, high-end techniques you won't find anywhere else!",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo3.jpg",
+        "title" : "ASP.NET MVC 4 in Action",
+        "totalbooks" : 5
+      },
+      "1617290491" : {
+        "authors" : [ "Rob Crowther", "Joe Lennon", "Ash Blue", "", "Greg Wanish" ],
+        "isbn" : "1617290491",
+        "pageCount" : 375,
+        "shortDescription" : "HTML5 In Action provides a complete introduction to web development using HTML5. You'll explore every aspect of the HTML5 specification through real-world examples and code samples. It's much more than just a specification reference, though. It lives up to the name HTML5 in Action by giving you the practical, hands-on guidance you'll need to use key features.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther2.jpg",
+        "title" : "HTML5 in Action",
+        "totalbooks" : 5
+      },
+      "1617290572" : {
+        "authors" : [ "Mike Cantelon", "Marc Harter", "T.J. Holowaychuk", "", "Nathan Rajlich" ],
+        "isbn" : "1617290572",
+        "pageCount" : 300,
+        "shortDescription" : "Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cantelon.jpg",
+        "title" : "Node.js in Action",
+        "totalbooks" : 4
+      },
+      "1884777066" : {
+        "authors" : [ "Ted Lewis", "friends" ],
+        "isbn" : "1884777066",
+        "pageCount" : 352,
+        "shortDescription" : "Frameworks are object-oriented programming environments for vertical application areas. This book is the first to survey this exciting new technology, its concepts, and practical applications.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewis2.jpg",
+        "title" : "Object Oriented Application Frameworks",
+        "totalbooks" : 6
+      },
+      "1884777082" : {
+        "authors" : [ "Compiled", "introduced by Ted Lewis" ],
+        "isbn" : "1884777082",
+        "pageCount" : 280,
+        "shortDescription" : "This unique guide covers software products and vendors active in the client/server marketplace. Over 200 products and over 250 vendors are included.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewis.jpg",
+        "title" : "Client/Server Yellow Pages",
+        "totalbooks" : 5
+      },
+      "1884777295" : {
+        "authors" : [ "Kenneth P. Birman" ],
+        "isbn" : "1884777295",
+        "pageCount" : 591,
+        "shortDescription" : "\"... tackles the difficult problem of building reliable distributed computing systems in a way that not only presents the principles but also describes proven practical solutions.\" --John Warne, BNR Europe",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/birman.jpg",
+        "title" : "Building Secure and Reliable Network Applications",
+        "totalbooks" : 6
+      },
+      "1884777368" : {
+        "authors" : [ "William R. Cockayne and Michael Zyda", "editors" ],
+        "isbn" : "1884777368",
+        "pageCount" : 320,
+        "shortDescription" : "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cockayne.jpg",
+        "title" : "Mobile Agents",
+        "totalbooks" : 6
+      },
+      "1884777384" : {
+        "authors" : [ "Levi Asher", "Christian Crumlish" ],
+        "isbn" : "1884777384",
+        "pageCount" : 316,
+        "shortDescription" : "Coffeehouse is an anthology of stories, poems and essays originally published on the World Wide Web.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/asher.jpg",
+        "title" : "Coffeehouse",
+        "totalbooks" : 5
+      },
+      "1884777392" : {
+        "authors" : [ "Ronny Richardson", "Michael Shoffner", "Marq Singer", "Bruce Murray", "", "Jack Gambol" ],
+        "isbn" : "1884777392",
+        "pageCount" : 372,
+        "shortDescription" : "Java Applets and Channels Without Programming collects almost 100 applets on a CD with detailed instructions on how to use each applet. In addition, style issues are discussed in detail; not only will you learn how to use each applet, you will learn when and where it is appropriate to use each applet. The book also introduces the new concept of channels and shows how these can be used on your web site as well.  ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shoffner.jpg",
+        "title" : "Java Applets and Channels Without Programming",
+        "totalbooks" : 6
+      },
+      "1884777465" : {
+        "authors" : [ "Ted Neward" ],
+        "isbn" : "1884777465",
+        "pageCount" : 570,
+        "shortDescription" : "Advanced OWL 5.0 covers advanced ways to make the OWL library do those tricky things you thought weren't possible. You'll get a long, exhaustive look at the new features introduced by the OWL 5.0 code. You'll find detailed explanations of how to extend the OWL objects themselves in new directions.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward2.jpg",
+        "title" : "Advanced OWL 5.0",
+        "totalbooks" : 5
+      },
+      "1884777473" : {
+        "authors" : [ "Peter J. Kovach" ],
+        "isbn" : "1884777473",
+        "pageCount" : 840,
+        "shortDescription" : "The Awesome Power of Direct3D/DirectX shows you how to build a complete working 3D application, including 3D sound, joystick input, animation, textures, shadows, and even collision detection.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kovach.jpg",
+        "title" : "The Awesome Power of Direct3D/DirectX",
+        "totalbooks" : 4
+      },
+      "1884777481" : {
+        "authors" : [ "Joe McGinn" ],
+        "isbn" : "1884777481",
+        "pageCount" : 420,
+        "shortDescription" : "Develop Notes and Domino Web applications by providing advanced LotusScript code for direct use in your programs. This book emphasizes practical, useable code and solutions to common Notes programming problems.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcginn.jpg",
+        "title" : "Inside LotusScript",
+        "totalbooks" : 6
+      },
+      "1884777503" : {
+        "authors" : [ "Ted Neward" ],
+        "isbn" : "1884777503",
+        "pageCount" : 500,
+        "shortDescription" : "Core OWL 5.0 dives under the surface and into the OWL source code itself. You'll see what new capabilities OWL 5.0 offers the OWL programmer. You'll gain a deeper understanding of what OWL does on your behalf such as the OWL messaging system and its message maps.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward.jpg",
+        "title" : "Core OWL 5.0",
+        "totalbooks" : 3
+      },
+      "1884777538" : {
+        "authors" : [ "Tim Hatton" ],
+        "isbn" : "1884777538",
+        "pageCount" : 378,
+        "shortDescription" : "The Awesome Power of PowerJ shows you how you can write Java programs the very first day with PowerJ, even if you don't know Java. Through a hands-on approach that makes liberal use of figures and code snippets, you will learn how to use PowerJ to build effective Java applets and applications.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton2.jpg",
+        "title" : "The Awesome Power of PowerJ",
+        "totalbooks" : 5
+      },
+      "1884777546" : {
+        "authors" : [ "Tim Hatton" ],
+        "isbn" : "1884777546",
+        "pageCount" : 416,
+        "shortDescription" : "The Awesome Power of Power++ is for the beginning to intermediate Power++ programmer. It assumes that you have little or no knowledge of the C++ language but that you do know programming constructs. The purpose is to teach you how to use Power++ to build C++ applets and applications even if you are not a C++ expert. To this end it takes a hands-on approach and makes liberal use of figures and code snippets.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton3.jpg",
+        "title" : "The Awesome Power of Power++",
+        "totalbooks" : 6
+      },
+      "1884777589" : {
+        "authors" : [ "Peter Small" ],
+        "isbn" : "1884777589",
+        "pageCount" : 450,
+        "shortDescription" : "\"Distinctive book explaining how to get intelligent software agents to work.\" --Clipcode.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/small.jpg",
+        "title" : "Magical A-Life Avatars",
+        "totalbooks" : 5
+      },
+      "1884777694" : {
+        "authors" : [ "Michael Rosing" ],
+        "isbn" : "1884777694",
+        "pageCount" : 330,
+        "shortDescription" : "\"The book provides all the theory and working programs needed to create real applications based on the latest IEEE P1363 standard.\"  --Reviewed in Cryptologia",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosing.jpg",
+        "title" : "Implementing Elliptic Curve Cryptography",
+        "totalbooks" : 4
+      },
+      "1884777708" : {
+        "authors" : [ "Tim Hatton" ],
+        "isbn" : "1884777708",
+        "pageCount" : 446,
+        "shortDescription" : "If you'd like to learn PowerBuilder--or enhance your skills-- this book is for you. Its hands-on approach will show you how to write real code. Each section takes a specific \"How do I \" topic and answers commonly asked questions in an easy-to-understand, conversational manner. It then shows you how the same technique can be used over and over again to decrease your overall code-writing time.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton.jpg",
+        "title" : "PowerBuilder 6.0 Questions & Answers",
+        "totalbooks" : 6
+      },
+      "1884777759" : {
+        "authors" : [ "Steven Gutz" ],
+        "isbn" : "1884777759",
+        "pageCount" : 560,
+        "shortDescription" : "Now in its Second Edition, Up to Speed with Swing is for you if you want to get on the fast track to Java Swing. The second edition has been extensively updated to cover Java 1.2 with additional code examples and illustrations.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gutz2.jpg",
+        "title" : "Up to Speed with Swing, Second Edition",
+        "totalbooks" : 6
+      },
+      "1884777864" : {
+        "authors" : [ "Michael Barlotta" ],
+        "isbn" : "1884777864",
+        "pageCount" : 550,
+        "shortDescription" : "Jaguar Development with PowerBuilder 7 is the definitive guide to distributed application development with PowerBuilder. It is the only book dedicated to preparing PowerBuilder developers for Jaguar applications and has been approved by Sybase engineers and product specialists who build the tools described in the book.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barlotta2.jpg",
+        "title" : "Jaguar Development with PowerBuilder 7",
+        "totalbooks" : 6
+      },
+      "1930110464" : {
+        "authors" : [ "Iain Shigeoka" ],
+        "isbn" : "1930110464",
+        "pageCount" : 402,
+        "shortDescription" : "This intermediate Java programming book provides Java programmers with the information and tools needed to create your own IM client and server software.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/shigeoka.jpg",
+        "title" : "Instant Messaging in Java",
+        "totalbooks" : 6
+      },
+      "1930110588" : {
+        "authors" : [ "Erik Hatcher", "Steve Loughran" ],
+        "isbn" : "1930110588",
+        "pageCount" : 672,
+        "shortDescription" : "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team J2EE projects. And, most important, it's easy to learn.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher.jpg",
+        "title" : "Java Development with Ant",
+        "totalbooks" : 6
+      },
+      "1930110855" : {
+        "authors" : [ "Kevin O'Malley" ],
+        "isbn" : "1930110855",
+        "pageCount" : 384,
+        "shortDescription" : "\"...an effective guide for Unix developers who want accurate information specifically on getting up to speed with Mac OS X and its software development environment, without having to sort through the morass of online information overload. ...If you've been a little skittish about Interface Builder, forget your worries now because the tutorial in the book is very good. ...The projects and examples are thorough and should provide even the most jaded intermediate programmer with a real taste of how challenging and satisfying it can be to code for OSX.\" - KickStartNews.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/omalley.jpg",
+        "title" : "Programming Mac OS X",
+        "totalbooks" : 6
+      },
+      "1930110944" : {
+        "authors" : [ "Benjamin G. Sullins", "Mark B. Whipple" ],
+        "isbn" : "1930110944",
+        "pageCount" : 352,
+        "shortDescription" : "\"This book provides a great reference for the average EJB developer. It provides recipes for most common tasks that an EJB developer would need.\" -- Computing Reviews, Nov. 2003",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins2.jpg",
+        "title" : "EJB Cookbook",
+        "totalbooks" : 6
+      },
+      "1930110952" : {
+        "authors" : [ "Bruce Tate", "Mike Clark", "Bob Lee", "Patrick Linskey" ],
+        "isbn" : "1930110952",
+        "pageCount" : 440,
+        "shortDescription" : "\"The book's informal tone offers a refreshing change from the ubiquitous preachiness of other EJB tomes. It's pragmatic and doesn't tap dance around the fact that EJBs are often used incorrectly in enterprise development... it's an effective way to avoid the potholes that have forced developers off track in the past.\" -- Software Development Magazine",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tate2.jpg",
+        "title" : "Bitter EJB",
+        "totalbooks" : 6
+      },
+      "1930110979" : {
+        "authors" : [ "Jack Herrington" ],
+        "isbn" : "1930110979",
+        "pageCount" : 350,
+        "shortDescription" : "Code Generation In Action covers building database access, user interface, remote procedure, test cases, and business logic code as well as code for other key system functions.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/herrington.jpg",
+        "title" : "Code Generation in Action",
+        "totalbooks" : 6
+      },
+      "1932394133" : {
+        "authors" : [ "Erik Keller" ],
+        "isbn" : "1932394133",
+        "pageCount" : 260,
+        "shortDescription" : "In Technology Paradise Lost Keller describes how the new thinking is working inside some of the country's most complex and successful organizations, including Merrill Lynch, JetBlue, Harrah's, and Motorola which have cut IT spending to gain a competitive edge, and experienced marked gains to their bottom lines.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/keller.jpg",
+        "title" : "Technology Paradise Lost",
+        "totalbooks" : 5
+      },
+      "1932394206" : {
+        "authors" : [ "Thomas B. Passin" ],
+        "isbn" : "1932394206",
+        "pageCount" : 304,
+        "shortDescription" : "\"A thorough look at one vision of the Web's future ...particularly well written...Highly recommended.\" -- Choice Magazine",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/passin.jpg",
+        "title" : "Explorer's Guide to the Semantic Web",
+        "totalbooks" : 6
+      },
+      "1932394273" : {
+        "authors" : [ "Matthew Scarpino", "Stephen Holder", "Stanford Ng", "", "Laurent Mihalkovic" ],
+        "isbn" : "1932394273",
+        "pageCount" : 496,
+        "shortDescription" : "Guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. Packed with examples and no fluff.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino.jpg",
+        "title" : "SWT/JFace in Action",
+        "totalbooks" : 6
+      },
+      "1932394354" : {
+        "authors" : [ "Craig Walls", "Ryan Breidenbach" ],
+        "isbn" : "1932394354",
+        "pageCount" : 472,
+        "shortDescription" : "Spring in Action introduces you to the ideas behind Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications. You will see how to solve persistence problems using the leading open-source tools, and also how to integrate your application with the most popular web frameworks. You will learn how to use Spring to manage the bulk of your infrastructure code so you can focus on what really matters     your critical business needs.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls2.jpg",
+        "title" : "Spring in Action",
+        "totalbooks" : 6
+      },
+      "1932394419" : {
+        "authors" : [ "Patrick Peak", "Nick Heudecker" ],
+        "isbn" : "1932394419",
+        "pageCount" : 456,
+        "shortDescription" : "\"If you want to learn Hibernate quickly, this book shows you step by step.\" - Sang Shin, Java Technology Architect, Sun Microsystems",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/peak.jpg",
+        "title" : "Hibernate Quickly",
+        "totalbooks" : 5
+      },
+      "1932394478" : {
+        "authors" : [ "Jeffrey Machols" ],
+        "isbn" : "1932394478",
+        "pageCount" : 356,
+        "shortDescription" : "Learn all about this new open source version control application and why it is replacing CVS as the standard. Examples demonstrate how to customize features to deal with day-to-day problems.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/machols.jpg",
+        "title" : "Subversion in Action",
+        "totalbooks" : 6
+      },
+      "1932394583" : {
+        "authors" : [ "Chris Richardson" ],
+        "isbn" : "1932394583",
+        "pageCount" : 592,
+        "shortDescription" : "\"POJOs in Action is required reading for battle-weary EJB developers and for new developers who want to avoid the sins of the fathers by using lightweight frameworks.    -- C# Online.NET",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crichardson.jpg",
+        "title" : "POJOs in Action",
+        "totalbooks" : 6
+      },
+      "1932394591" : {
+        "authors" : [ "Eric Pulier and Hugh Taylor", "Foreword by Paul Gaffney" ],
+        "isbn" : "1932394591",
+        "pageCount" : 280,
+        "shortDescription" : "\"SOA is real ... Pulier is uniquely qualified to make [it] accessible to the general business audience.\" - Paul Gaffney, Staples, Inc., From the Foreword",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pulier.jpg",
+        "title" : "Understanding Enterprise SOA",
+        "totalbooks" : 6
+      },
+      "1932394621" : {
+        "authors" : [ "Noel Rappin", "Robin Dunn" ],
+        "isbn" : "1932394621",
+        "pageCount" : 620,
+        "shortDescription" : "\"The book is easy to read and provides an approach to a very practical contemporary topic. The authors have organized their material well.\" -- Melissa Strange, Walden University, www.reviews.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rappin.jpg",
+        "title" : "wxPython in Action",
+        "totalbooks" : 6
+      },
+      "1932394699" : {
+        "authors" : [ "David A. Black" ],
+        "isbn" : "1932394699",
+        "pageCount" : 532,
+        "shortDescription" : "The word is out: with Ruby on Rails you can build powerful Web applications easily and quickly! And just like the Rails framework itself, Rails applications are Ruby programs. That means you can   t tap into the full power of Rails unless you master the Ruby language.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black.jpg",
+        "title" : "Ruby for Rails",
+        "totalbooks" : 6
+      },
+      "1932394753" : {
+        "authors" : [ "Dagfinn Reiersøl with Marcus Baker", "Chris Shiflett" ],
+        "isbn" : "1932394753",
+        "pageCount" : 552,
+        "shortDescription" : "\"If there was ever a textbook for software development in PHP, this would be it.\"    Cal Evans, Podcast Review, Zend Developer Network",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/reiersol.jpg",
+        "title" : "PHP in Action",
+        "totalbooks" : 6
+      },
+      "1932394796" : {
+        "authors" : [ "Bruno Lowagie" ],
+        "isbn" : "1932394796",
+        "pageCount" : 688,
+        "shortDescription" : "\"I've been using iText for over a year, but I still learnt an awful lot while reading this book.\" --JavaLobby",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lowagie.jpg",
+        "title" : "iText in Action",
+        "totalbooks" : 5
+      },
+      "1932394818" : {
+        "authors" : [ "Nishant Sivakumar" ],
+        "isbn" : "1932394818",
+        "pageCount" : 416,
+        "shortDescription" : "   ... a great resource, an outstanding job, a must-read...        Ayman B. Shoukry, VC++ Team, Microsoft Corporation",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sivakumar.jpg",
+        "title" : "C++/CLI in Action",
+        "totalbooks" : 6
+      },
+      "1932394826" : {
+        "authors" : [ "Clinton Begin", "Brandon Goodin", "Larry Meadors" ],
+        "isbn" : "1932394826",
+        "pageCount" : 384,
+        "shortDescription" : "   Gets new users going and gives experienced users in-depth coverage of advanced features.       Jeff Cunningham, The Weather Channel Interactive",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/begin.jpg",
+        "title" : "iBATIS in Action",
+        "totalbooks" : 6
+      },
+      "1932394885" : {
+        "authors" : [ "Christian Bauer", "Gavin King" ],
+        "isbn" : "1932394885",
+        "pageCount" : 880,
+        "shortDescription" : "\"...this book is the ultimate solution. If you are going to use Hibernate in your application, you have no other choice, go rush to the store and get this book.\" --JavaLobby",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer2.jpg",
+        "title" : "Java Persistence with Hibernate",
+        "totalbooks" : 6
+      },
+      "1932394907" : {
+        "authors" : [ "Bruce Payette" ],
+        "isbn" : "1932394907",
+        "pageCount" : 576,
+        "shortDescription" : "   If all it had going for it was the authoratative pedigree of the writer, it might be worth it, but it's also well-written, well-organized, and thorough, which I think makes it invaluable as both a learning tool and a reference.       Slashdot.org",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/payette.jpg",
+        "title" : "Windows PowerShell in Action",
+        "totalbooks" : 6
+      },
+      "1933988053" : {
+        "authors" : [ "Ramnivas Laddad" ],
+        "isbn" : "1933988053",
+        "pageCount" : 568,
+        "shortDescription" : "AspectJ in Action, Second Edition is a fully updated, major revision of Ramnivas Laddad's best-selling first edition. It's a hands-on guide for Java developers. After introducing the core principles of AOP, it shows you how to create reusable solutions using AspectJ 6 and Spring 3. You'll master key features including annotation-based syntax, load-time weaver, annotation-based crosscutting, and Spring-AspectJ integration. Building on familiar technologies such as JDBC, Hibernate, JPA, Spring Security, Spring MVC, and Swing, you'll apply AOP to common problems encountered in enterprise applications.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laddad2.jpg",
+        "title" : "AspectJ in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1933988177" : {
+        "authors" : [ "Erik Hatcher", "Otis Gospodnetic", "", "Michael McCandless" ],
+        "isbn" : "1933988177",
+        "pageCount" : 532,
+        "shortDescription" : "With clear writing, reusable examples, and unmatched advice on best practices, Lucene in Action is still the definitive guide to developing with Lucene.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher3.jpg",
+        "title" : "Lucene in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1933988258" : {
+        "authors" : [ "Greg Smith", "Ahmed Sidky" ],
+        "isbn" : "1933988258",
+        "pageCount" : 408,
+        "shortDescription" : "   Becoming Agile is not another book to be classified in the existing ones handling agile practices, it's one of the rare writings which will go with you in the adoption and setup/migration to an agile process...This real must-have agilist's bedside book reads very well and will accompany you in your migration agile practices...       Eric Siber, Developpez.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smith.jpg",
+        "title" : "Becoming Agile",
+        "totalbooks" : 6
+      },
+      "1933988266" : {
+        "authors" : [ "Arnon Rotem-Gal-Oz" ],
+        "isbn" : "1933988266",
+        "pageCount" : 250,
+        "shortDescription" : "In SOA Patterns, author Arnon Rotem-Gal-Oz provides detailed, technology-neutral solutions to these challenges, and many others. This book provides architectural guidance through patterns and anti-patterns. It shows you how to build real SOA services that feature flexibility, availability, and scalability.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rotem.jpg",
+        "title" : "SOA Patterns",
+        "totalbooks" : 6
+      },
+      "1933988320" : {
+        "authors" : [ "Rob Allen", "Nick Lo", "Steven Brown" ],
+        "isbn" : "1933988320",
+        "pageCount" : 432,
+        "shortDescription" : "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+        "title" : "Zend Framework in Action",
+        "totalbooks" : 6
+      },
+      "1933988355" : {
+        "authors" : [ "Bear Bibeault", "Yehuda Katz" ],
+        "isbn" : "1933988355",
+        "pageCount" : 376,
+        "shortDescription" : "\"The best-thought-out and researched piece of literature on the jQuery library.\" --From the forward by John Resig, Creator of jQuery",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault.jpg",
+        "title" : "jQuery in Action",
+        "totalbooks" : 6
+      },
+      "1933988401" : {
+        "authors" : [ "Dan Allen" ],
+        "isbn" : "1933988401",
+        "pageCount" : 624,
+        "shortDescription" : "Seam in Action goes into great detail on the ways in which Seam helps reduce the burden of integration with different technologies such as Hibernate and JSF, allowing the developer to focus on the core business objective at hand.       Shobana Jayaraman, Digital Infrastructure Analyst, University of Texas Southwestern Medical Center Library, The Tech Static",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dallen.jpg",
+        "title" : "Seam in Action",
+        "totalbooks" : 6
+      },
+      "1933988428" : {
+        "authors" : [ "Chad A. Campbell", "John Stockton" ],
+        "isbn" : "1933988428",
+        "pageCount" : 400,
+        "shortDescription" : "   Silverlight 2 in Action gives you a solid, well-thought out and coherent foundation for building RIA web applications, and provides you with lots of technical details without ever becoming cloudy.       Golo Roden, author, trainer and speaker for .NET technologies",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/campbell.jpg",
+        "title" : "Silverlight 2 in Action",
+        "totalbooks" : 6
+      },
+      "1933988452" : {
+        "authors" : [ "Paul A. Boag" ],
+        "isbn" : "1933988452",
+        "pageCount" : 296,
+        "shortDescription" : "Website Owner's Manual helps you form a vision for your site, guides you through the process of selecting a web design agency, and gives you enough background information to make intelligent decisions throughout the development process. This book provides a jargon-free overview of web design, including accessibility, usability, online marketing, and web development techniques. You'll gain a practical understanding of the technologies, processes, and ideas that drive a successful website.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/boag.jpg",
+        "title" : "Website Owner's Manual",
+        "totalbooks" : 6
+      },
+      "1933988495" : {
+        "authors" : [ "Warren D. Sande", "Carter Sande" ],
+        "isbn" : "1933988495",
+        "pageCount" : 432,
+        "shortDescription" : "Hello World! provides a gentle but thorough introduction to the world of computer programming.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande.jpg",
+        "title" : "Hello World!",
+        "totalbooks" : 6
+      },
+      "1933988509" : {
+        "authors" : [ "Peter Armstrong" ],
+        "isbn" : "1933988509",
+        "pageCount" : 592,
+        "shortDescription" : "\"Flexible Rails created a standard to which I hold other technical books. You definitely get your money's worth.\"",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong.jpg",
+        "title" : "Flexible Rails",
+        "totalbooks" : 6
+      },
+      "1933988606" : {
+        "authors" : [ "Oren Eini writing as Ayende Rahien" ],
+        "isbn" : "1933988606",
+        "pageCount" : 352,
+        "shortDescription" : "DSLs in Boo shows you how to design, extend, and evolve DSLs for .NET by focusing on approaches and patterns. You learn to define an app in terms that match the domain, and to use Boo to build DSLs that generate efficient executables. And you won't deal with the awkward XML-laden syntax many DSLs require. The book concentrates on writing internal (textual) DSLs that allow easy extensibility of the application and framework. And if you don't know Boo, don't worry   you'll learn right here all the techniques you need.  ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rahien.jpg",
+        "title" : "DSLs in Boo: Domain-Specific Languages in .NET",
+        "totalbooks" : 6
+      },
+      "1933988622" : {
+        "authors" : [ "Jeffrey Palermo", "Ben Scheirman", "", "Jimmy Bogard" ],
+        "isbn" : "1933988622",
+        "pageCount" : 392,
+        "shortDescription" : "ASP.NET MVC in Action is a guide to pragmatic MVC-based web development. After a thorough overview, it dives into issues of architecture and maintainability. The book assumes basic knowledge of ASP.NET (v. 3.5) and expands your expertise.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo.jpg",
+        "title" : "ASP.NET MVC in Action",
+        "totalbooks" : 6
+      },
+      "1933988649" : {
+        "authors" : [ "Emmanuel Bernard", "John Griffin" ],
+        "isbn" : "1933988649",
+        "pageCount" : 488,
+        "shortDescription" : "\"A great resource for true database independent full text search.\" --Aaron Walker, base2Services",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bernard.jpg",
+        "title" : "Hibernate Search in Action",
+        "totalbooks" : 6
+      },
+      "1933988657" : {
+        "authors" : [ "David A. Black" ],
+        "isbn" : "1933988657",
+        "pageCount" : 520,
+        "shortDescription" : "What would appear to be the most complex topic of the book is in fact surprisingly easy to assimilate, and one realizes that the efforts of the author to gradually lead us to a sufficient knowledge of Ruby in order to tackle without pain the most difficult subjects, bears its fruit.       Eric Grimois, Developpez.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black2.jpg",
+        "title" : "The Well-Grounded Rubyist",
+        "totalbooks" : 6
+      },
+      "1933988673" : {
+        "authors" : [ "W. Frank Ableson", "Charlie Collins", "Robi Sen" ],
+        "isbn" : "1933988673",
+        "pageCount" : 416,
+        "shortDescription" : "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+        "title" : "Unlocking Android",
+        "totalbooks" : 6
+      },
+      "1933988711" : {
+        "authors" : [ "Kyle Baley", "Donald Belcham" ],
+        "isbn" : "1933988711",
+        "pageCount" : 550,
+        "shortDescription" : "Brownfield Application Development in .Net shows you how to approach legacy applications with the state-of-the-art concepts, patterns, and tools you've learned to apply to new projects. Using an existing application as an example, this book guides you in applying the techniques and best practices you need to make it more maintainable and receptive to change.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg",
+        "title" : "Brownfield Application Development in .NET",
+        "totalbooks" : 6
+      },
+      "1933988754" : {
+        "authors" : [ "Yvonne M. Harryman" ],
+        "isbn" : "1933988754",
+        "pageCount" : 300,
+        "shortDescription" : "SharePoint 2010 Site Owner's Manual starts by assuming you already have SharePoint installed on your system and are looking for ways to solve the problems you face every day in your organization. You'll learn to determine what type of SharePoint installation you have   Microsoft Office SharePoint Server (MOSS), Windows SharePoint Services (WSS), the \"Fabulous 40\" templates   and what features are at your disposal. Once you know the lay of the land, you'll discover what you can do yourself, when you need to call in some help, and when you should leave it to the developers.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/harryman.jpg",
+        "title" : "SharePoint 2010 Site Owner's Manual",
+        "totalbooks" : 6
+      },
+      "1933988762" : {
+        "authors" : [ "Peter Armstrong" ],
+        "isbn" : "1933988762",
+        "pageCount" : 258,
+        "shortDescription" : "Hello! Flex 4 progresses through 26 self-contained examples selected so you can progressively master Flex. They vary from small one-page apps, to a 3D rotating haiku, to a Connect Four-like game. And in the last chapter you'll learn to build a full Flex application called SocialStalkr   a mashup that lets you follow your friends by showing their tweets on a Yahoo map.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg",
+        "title" : "Hello! Flex 4",
+        "totalbooks" : 6
+      },
+      "1933988770" : {
+        "authors" : [ "Anthony Williams" ],
+        "isbn" : "1933988770",
+        "pageCount" : 325,
+        "shortDescription" : "C++ Concurrency in Action is the first book to show you how to take advantage of the new C++ Standard and TR2 to write robust multi-threaded applications in C++.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/williams.jpg",
+        "title" : "C++ Concurrency in Action",
+        "totalbooks" : 6
+      },
+      "1933988789" : {
+        "authors" : [ "Martin Logan", "Eric Merritt", "", "Richard Carlsson" ],
+        "isbn" : "1933988789",
+        "pageCount" : 500,
+        "shortDescription" : "Erlang and OTP in Action teaches you to apply Erlang's shared-state model for concurrent programming--a completely different way of tackling the problem of parallel programming from the more common multi-threaded approach. This book walks you through the practical considerations and steps of building systems in Erlang and integrating them with real-world C/C++, Java, and .NET applications. Unlike other books on the market, Erlang and OTP in Action offers a comprehensive view of how concurrency relates to SOA and web technologies.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/logan.jpg",
+        "title" : "Erlang and OTP in Action",
+        "totalbooks" : 6
+      },
+      "1933988797" : {
+        "authors" : [ "Bernerd Allmon", "Jeremy Anderson" ],
+        "isbn" : "1933988797",
+        "pageCount" : 265,
+        "shortDescription" : "   A beautifully written book that is a must have for every Java Developer.       Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg",
+        "title" : "Flex on Java",
+        "totalbooks" : 6
+      },
+      "1933988819" : {
+        "authors" : [ "Brett Lonsdale", "Nick Swan" ],
+        "isbn" : "1933988819",
+        "pageCount" : 304,
+        "shortDescription" : "SharePoint 2007 Developer's Guide to Business Data Catalog is a practical, example-rich guide to the features of the BDC and the techniques you need to build solutions for end users. The book starts with the basics   what the BDC is, what you can do with it, and how to pull together a BDC solution. With the fundamentals in hand, it explores the techniques and ideas you need to put BDC into use effectively in your organization.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lonsdale.jpg",
+        "title" : "SharePoint 2007 Developer's Guide to Business Data Catalog",
+        "totalbooks" : 6
+      },
+      "1933988894" : {
+        "authors" : [ "Simon Laws", "Mark Combellack", "Raymond Feng", "Haleh Mahbod", "Simon Nash" ],
+        "isbn" : "1933988894",
+        "pageCount" : 472,
+        "shortDescription" : "Tuscany in Action is a comprehensive, hands-on guide for developing technology agnostic, extensible applications using Apache Tuscany's lightweight SCA infrastructure. The book uses practical examples based on a travel booking scenario to demonstrate how to develop applications with Tuscany SCA. Apache Tuscany supports a variety of programming environments, data bindings and communication protocols \"out of the box\" and can be easily extended to support other technologies.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laws.jpg",
+        "title" : "Tuscany SCA in Action",
+        "totalbooks" : 6
+      },
+      "1933988916" : {
+        "authors" : [ "Richard S. Hall", "Karl Pauls", "Stuart McCulloch", "", "David Savage" ],
+        "isbn" : "1933988916",
+        "pageCount" : 576,
+        "shortDescription" : "OSGi in Action is a comprehensive guide to OSGi with two primary goals. First, it provides a clear introduction to OSGi concepts with examples that are relevant both for architects and developers. The central idea of OSGi is modularity, so you start by learning about OSGi bundles. You'll then see how OSGi handles module lifecycles and follow up with how it promotes service-oriented interaction among application components.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hall.jpg",
+        "title" : "OSGi in Action",
+        "totalbooks" : 6
+      },
+      "1933988924" : {
+        "authors" : [ "Tomas Petricek with Jon Skeet" ],
+        "isbn" : "1933988924",
+        "pageCount" : 560,
+        "shortDescription" : "This book teaches the ideas and techniques of functional programming applied to real-world problems. You'll see how the functional way of thinking changes the game for .NET developers. Then, you'll tackle common issues using a functional approach. The book will also teach you the basics of the F# language and extend your C# skills into the functional domain. No prior experience with functional programming or F# is required.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek.jpg",
+        "title" : "Real-World Functional Programming",
+        "totalbooks" : 6
+      },
+      "1933988932" : {
+        "authors" : [ "Glen Smith", "Peter Ledbrook" ],
+        "isbn" : "1933988932",
+        "pageCount" : 520,
+        "shortDescription" : "Grails in Action is a comprehensive guide to the Grails framework. First, the basics: the domain model, controllers, views, and services. Then, the fun! Dive into a Twitter-style app with features like AJAX/JSON, animation, search, wizards   even messaging and Jabber integration. Along the way, you'll discover loads of great plugins that'll make your app shine. Learn to integrate with existing Java systems using Spring and Hibernate. You'll need basic familiarity with Java and the web.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith.jpg",
+        "title" : "Grails in Action",
+        "totalbooks" : 6
+      },
+      "1933988940" : {
+        "authors" : [ "Bruce Snyder", "Dejan Bosanac", "", "Rob Davies" ],
+        "isbn" : "1933988940",
+        "pageCount" : 408,
+        "shortDescription" : "ActiveMQ is implemented in Java, but it supports client applications written in many other programming languages including C/C++, .NET, Ruby, Perl, PHP, Python, and more. It can be integrated with other open source frameworks including Tomcat, ServiceMix, JBoss, and can easily bridge to other JMS providers.  ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/snyder.jpg",
+        "title" : "ActiveMQ in Action",
+        "totalbooks" : 6
+      },
+      "1935182005" : {
+        "authors" : [ "Richard Siddaway" ],
+        "isbn" : "1935182005",
+        "pageCount" : 500,
+        "shortDescription" : "PowerShell in Practice is a hands-on, cookbook-style reference intended for administrators wanting to learn and use PowerShell. Written from an administrator's perspective, it concentrates on using PowerShell for practical tasks and automation. The book starts with an introduction that includes a rapid tutorial and a review of the key areas in which you'll use PowerShell.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway.jpg",
+        "title" : "PowerShell in Practice",
+        "totalbooks" : 6
+      },
+      "1935182021" : {
+        "authors" : [ "Petar Tahchiev", "Felipe Leme", "Vincent Massol", "", "Gary Gregory" ],
+        "isbn" : "1935182021",
+        "pageCount" : 504,
+        "shortDescription" : "JUnit in Action, Second Edition is an up-to-date guide to unit testing Java applications (including Java EE applications) using the JUnit framework and its extensions. This book provides techniques for solving real-world problems such as testing AJAX applications, using mocks to achieve testing isolation, in-container testing for Java EE and database applications, and test automation.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tahchiev.jpg",
+        "title" : "JUnit in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182048" : {
+        "authors" : [ "Contributions from 53 SQL Server MVPs", "Edited by Paul Nielsen", "Kalen Delaney", "Greg Low", "Adam Machanic", "Paul S. Randal", "", "Kimberly L. Tripp" ],
+        "isbn" : "1935182048",
+        "pageCount" : 848,
+        "shortDescription" : "SQL Server MVP Deep Dives is organized into five parts: Design and Architecture, Development, Administration, Performance Tuning and Optimization, and Business Intelligence. In each, you'll find concise, brilliantly clear chapters that take on key topics like mobile data strategies, Dynamic Management Views, or query performance.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsen.jpg",
+        "title" : "SQL Server MVP Deep Dives",
+        "totalbooks" : 6
+      },
+      "1935182056" : {
+        "authors" : [ "Willie Wheeler with Joshua White" ],
+        "isbn" : "1935182056",
+        "pageCount" : 600,
+        "shortDescription" : "Spring in Practice diverges from other cookbooks because it presents the background you need to understand the domain in which a solution applies before it offers the specific steps to solve the problem. You're never left with the feeling that you understand the answer, but find the question irrelevant. You can put the book to immediate use even if you don't have deep knowledge of every part of Spring Framework.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wheeler.jpg",
+        "title" : "Spring in Practice",
+        "totalbooks" : 6
+      },
+      "1935182080" : {
+        "authors" : [ "Anthony Briggs" ],
+        "isbn" : "1935182080",
+        "pageCount" : 350,
+        "shortDescription" : "Hello! Python fully covers the building blocks of Python programming and gives you a gentle introduction to more advanced topics such as object oriented programming, functional programming, network programming, and program design. New (or nearly new) programmers will learn most of what they need to know to start using Python immediately.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/briggs.jpg",
+        "title" : "Hello! Python",
+        "totalbooks" : 6
+      },
+      "1935182129" : {
+        "authors" : [ "JD \"Illiad\" Frazer" ],
+        "isbn" : "1935182129",
+        "pageCount" : 1096,
+        "shortDescription" : "This unique collector's volume includes every daily strip from November 17, 1997 to November 16, 2007. Many of the cartoons are annotated with comments from UserFriendly artist and creator JD    Illiad    Frazer.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/userfriendly.jpg",
+        "title" : "Ten Years of UserFriendly.Org",
+        "totalbooks" : 6
+      },
+      "1935182137" : {
+        "authors" : [ "Bruce Payette" ],
+        "isbn" : "1935182137",
+        "pageCount" : 700,
+        "shortDescription" : "Windows PowerShell in Action, Second Edition is a completely revised edition of the best selling book on PowerShell, written by Bruce Payette, one of the founding members of the Windows PowerShell team, co-designer of the PowerShell language, and the principal author of the PowerShell language implementation.    This new edition preserves the crystal-clear introduction to PowerShell, showing sysadmins and developers how to build scripts and utilities to automate system tasks or create powerful system management tools to handle day-to-day tasks. It's rich with interesting examples that will spark your imagination. The book covers batch scripting and string processing, COM, WMI, remote management and jobs and even .NET programming including WinForms and WPF/XAML.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/payette2.jpg",
+        "title" : "Windows PowerShell in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182188" : {
+        "authors" : [ "Stefano Mostarda", "Marco De Sanctis", "", "Daniele Bochicchio" ],
+        "isbn" : "1935182188",
+        "pageCount" : 576,
+        "shortDescription" : "Microsoft Entity Framework in Action introduces the Entity Framework to developers working in .NET who already have some knowledge of ADO.NET. The book begins with a review of the core ideas behind the ORM model and shows how Entity Framework offers a smooth transition from a traditional ADO.NET approach. By presenting numerous small examples and a couple larger case studies, the book unfolds the Entity Framework story in clear, easy-to-follow detail. The infrastructure and inner workings will be highlighted only when there   s the need to understand a particular feature.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mostarda.jpg",
+        "title" : "Entity Framework 4 in Action",
+        "totalbooks" : 6
+      },
+      "1935182196" : {
+        "authors" : [ "Chuck Lam" ],
+        "isbn" : "1935182196",
+        "pageCount" : 325,
+        "shortDescription" : "Hadoop in Action teaches readers how to use Hadoop and write MapReduce programs. The intended readers are programmers, architects, and project managers who have to process large amounts of data offline. Hadoop in Action will lead the reader from obtaining a copy of Hadoop to setting it up in a cluster and writing data analytic programs.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lam.jpg",
+        "title" : "Hadoop in Action",
+        "totalbooks" : 6
+      },
+      "1935182234" : {
+        "authors" : [ "Andres Almiray", "Danno Ferrin", "", "James Shingler" ],
+        "isbn" : "1935182234",
+        "pageCount" : 375,
+        "shortDescription" : "Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
+        "title" : "Griffon in Action",
+        "totalbooks" : 6
+      },
+      "1935182250" : {
+        "authors" : [ "Amanda Laucher" ],
+        "isbn" : "1935182250",
+        "pageCount" : 425,
+        "shortDescription" : "F# in Action introduces the F# language, but it goes well beyond the standard tutorial and reference approach. F# expert Amanda Laucher draws on her extensive experience deploying F#-based solutions to show you how to use F# in real, day-to-day work.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/laucher.jpg",
+        "title" : "F# in Action",
+        "totalbooks" : 6
+      },
+      "1935182269" : {
+        "authors" : [ "Regina O. Obe", "Leo S. Hsu" ],
+        "isbn" : "1935182269",
+        "pageCount" : 325,
+        "shortDescription" : "PostGIS in Action is the first book devoted entirely to PostGIS. It will help both new and experienced users write spatial queries to solve real-world problems. For those with experience in more traditional relational databases, this book provides a background in vector-based GIS so you can quickly move to analyzing, viewing, and mapping data.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/obe.jpg",
+        "title" : "PostGIS in Action",
+        "totalbooks" : 6
+      },
+      "1935182277" : {
+        "authors" : [ "Ryan Bigg", "Yehuda Katz" ],
+        "isbn" : "1935182277",
+        "pageCount" : 425,
+        "shortDescription" : "Rails 3 in Action will provide a thorough introduction to Ruby-based web development using Rails. Like Rails 3 itself, this book combines Merb and Rails in the form of authors Yehuda Katz, Merb Lead Developer.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/katz.jpg",
+        "title" : "Rails 3 in Action",
+        "totalbooks" : 6
+      },
+      "1935182307" : {
+        "authors" : [ "Arnaud Cogoluegnes", "Thierry Templier", "", "Andy Piper" ],
+        "isbn" : "1935182307",
+        "pageCount" : 450,
+        "shortDescription" : "Spring Dynamic Modules in Action introduces Spring DM and OSGi to Java EE developers and architects. It presents the fundamental concepts of OSGi-based apps and maps them to the familiar ideas of the Spring framework. Then, it engages you with the techniques and concepts you'll need to develop stable, flexible enterprise apps. You'll learn how to embed a Spring container inside an OSGi bundle, and how Spring DM lets you blend Spring strengths like dependency injection with OSGi-based services. Along the way, you'll see how Spring DM handles data access and web-based components, and you'll explore topics like unit testing and configuration in an OSGi-based environment.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cogoluegnes.jpg",
+        "title" : "Spring Dynamic Modules in Action",
+        "totalbooks" : 6
+      },
+      "1935182323" : {
+        "authors" : [ "Bear Bibeault", "Yehuda Katz" ],
+        "isbn" : "1935182323",
+        "pageCount" : 488,
+        "shortDescription" : "jQuery in Action, Second Edition is a fast-paced introduction to jQuery that will take your JavaScript programming to the next level. An in-depth rewrite of the bestselling first edition, this edition provides deep and practical coverage of the latest jQuery and jQuery UI releases. The book's unique \"lab pages\" anchor the explanation of each new concept in a practical example. You'll learn how to traverse HTML documents, handle events, perform animations, and add Ajax to your web pages. This comprehensive guide also teaches you how jQuery interacts with other tools and frameworks and how to build jQuery plugins. ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bibeault2.jpg",
+        "title" : "jQuery in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182358" : {
+        "authors" : [ "Craig Walls" ],
+        "isbn" : "1935182358",
+        "pageCount" : 424,
+        "shortDescription" : "Spring in Action, Third Edition has been completely revised to reflect the latest features, tools, practices Spring offers to java developers. It begins by introducing the core concepts of Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls4.jpg",
+        "title" : "Spring in Action, Third Edition",
+        "totalbooks" : 6
+      },
+      "1935182366" : {
+        "authors" : [ "Claus Ibsen", "Jonathan Anstey" ],
+        "isbn" : "1935182366",
+        "pageCount" : 375,
+        "shortDescription" : "Camel in Action is for developers working with integration of any kind. This highly practical book introduces Camel and shows examples of how to use it with the 45+ supported enterprise integration patterns. Written by the people who wrote the Camel code, it's up to date and distills details and insights that only people deeply involved with Camel could provide.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ibsen.jpg",
+        "title" : "Camel in Action",
+        "totalbooks" : 6
+      },
+      "1935182374" : {
+        "authors" : [ "Pete Brown" ],
+        "isbn" : "1935182374",
+        "pageCount" : 425,
+        "shortDescription" : "Silverlight in Action, Revised Edition is a comprehensive guide to Silverlight, taking you from Hello World through the techniques you'll need to build sophisticated rich web apps. This new edition covers all the new features added in the latest versions of Silverlight, Visual Studio, and Expression Blend, along with the best practices emerging in the Silverlight community. With more than 50% new content, you'll take a mind-expanding trip through the technology, features, and techniques required to build applications ranging from media, to custom experiences, to business applications to games.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown.jpg",
+        "title" : "Silverlight 4 in Action, Revised Edition",
+        "totalbooks" : 6
+      },
+      "1935182390" : {
+        "authors" : [ "Robert I. Kabacoff" ],
+        "isbn" : "1935182390",
+        "pageCount" : 375,
+        "shortDescription" : "R in Action is the first book to present both the R system and the use cases that make it such a compelling package for business developers. The book begins by introducing the R language, including the development environment. As you work through various examples illustrating R's features, you'll also get a crash course in practical statistics, including basic and advanced models for normal and non-normal data, longitudinal and survival data, and a wide variety of multivariate methods. Both data mining methodologies and approaches to messy and incomplete data are included.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kabacoff.jpg",
+        "title" : "R in Action",
+        "totalbooks" : 6
+      },
+      "1935182412" : {
+        "authors" : [ "Vikas Hazrati", "Balaji D Loganathan" ],
+        "isbn" : "1935182412",
+        "pageCount" : 325,
+        "shortDescription" : "Distributed Agile in Action is the first book to directly address the unique task of going Agile in a distributed team. Rather than rehashing Agile theories, this book supplies the practical examples and step by step advice you need to help your distributed teams adopt and embrace Agile principles. It's a distilled and carefully organized learning aid for working in a distributed Agile environment, with in-depth focus on how to approach three critical components of development-People, Process and Technology.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazrati.jpg",
+        "title" : "Distributed Agile in Action",
+        "totalbooks" : 6
+      },
+      "1935182447" : {
+        "authors" : [ "Dierk König", "Guillaume Laforge", "Paul King", "Cédric Champeau", "Hamlet D'Arcy", "Erik Pragt", "", "Jon Skeet" ],
+        "isbn" : "1935182447",
+        "pageCount" : 700,
+        "shortDescription" : "Groovy in Action, Second Edition is a thoroughly-revised, comprehensive guide to Groovy programming. It introduces Java developers to the dynamic features that Groovy provides, and shows you how to apply Groovy to a range of tasks including building new apps, integration with existing code, and DSL development.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koenig2.jpg",
+        "title" : "Groovy in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182463" : {
+        "authors" : [ "Daniele Bochicchio", "Stefano Mostarda", "", "Marco De Sanctis" ],
+        "isbn" : "1935182463",
+        "pageCount" : 504,
+        "shortDescription" : "ASP.NET 4.0 in Practice contains real world techniques from well-known professionals who have been using ASP.NET since the first previews.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bochicchio.jpg",
+        "title" : "ASP.NET 4.0 in Practice",
+        "totalbooks" : 6
+      },
+      "1935182471" : {
+        "authors" : [ "Jon Skeet" ],
+        "isbn" : "1935182471",
+        "pageCount" : 584,
+        "shortDescription" : "C# in Depth, Second Edition concentrates on the high-value features that make C# such a powerful and flexible development tool. Rather than re-hashing the core of C# that's essentially unchanged since it hit the scene nearly a decade ago, this book brings you up to speed with the features and practices that have changed with C# from version 2.0 onwards.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet2.jpg",
+        "title" : "C# in Depth, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182501" : {
+        "authors" : [ "Mark Seemann" ],
+        "isbn" : "1935182501",
+        "pageCount" : 375,
+        "shortDescription" : "Dependency Injection in .NET is a comprehensive guide than introduces DI and provides an in-depth look at applying DI practices to .NET apps. In it, you will also learn to integrate DI together with such technologies as Windows Communication Foundation, ASP.NET MVC, Windows Presentation Foundation and other core .NET components.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/seemann.jpg",
+        "title" : "Dependency Injection in .NET",
+        "totalbooks" : 6
+      },
+      "1935182544" : {
+        "authors" : [ "Ashish Sarin" ],
+        "isbn" : "1935182544",
+        "pageCount" : 475,
+        "shortDescription" : "Portlets in Action is a comprehensive guide for Java developers with minimal or no experience working with portlets. Fully exploring the Portlet 2.0 API and using widely adopted frameworks like Spring 3.0 Portlet MVC, Hibernate, and DWR, it teaches you portal and portlet development by walking you through a Book Catalog portlet and Book Portal examples.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sarin.jpg",
+        "title" : "Portlets in Action",
+        "totalbooks" : 6
+      },
+      "1935182552" : {
+        "authors" : [ "Marcin Kawalerowicz", "Craig Berntson" ],
+        "isbn" : "1935182552",
+        "pageCount" : 328,
+        "shortDescription" : "Continuous Integration in .NET is a tutorial for developers and team leads that teaches you to reimagine your development strategy by creating a consistent continuous integration process. This book shows you how to build on the tools you already know--.NET Framework and Visual Studio and to use powerful software like MSBuild, Subversion, TFS 2010, Team City, CruiseControl.NET, NUnit, and Selenium.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kawalerowicz.jpg",
+        "title" : "Continuous Integration in .NET",
+        "totalbooks" : 6
+      },
+      "1935182587" : {
+        "authors" : [ "Brandon Trebitowski", "Christopher Allen", "", "Shannon Appelcline" ],
+        "isbn" : "1935182587",
+        "pageCount" : 450,
+        "shortDescription" : "Using many examples, the book covers core features like accelerometers, GPS, the Address Book, and much more. Along the way, you'll learn to leverage your iPhone skills to build attractive iPad apps. This is a revised and expanded edition of the original iPhone in Action.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/trebitowski.jpg",
+        "title" : "iPhone and iPad in Action",
+        "totalbooks" : 6
+      },
+      "1935182595" : {
+        "authors" : [ "Amit Rathore" ],
+        "isbn" : "1935182595",
+        "pageCount" : 475,
+        "shortDescription" : "Clojure in Action is a hands-on tutorial for the working programmer who has written code in a language like Java or Ruby, but has no prior experience with Lisp. It teaches Clojure from the basics to advanced topics using practical, real-world application examples. Blow through the theory and dive into practical matters like unit-testing, environment set up, all the way through building a scalable web-application using domain-specific languages, Hadoop, HBase, and RabbitMQ.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore.jpg",
+        "title" : "Clojure in Action",
+        "totalbooks" : 6
+      },
+      "1935182617" : {
+        "authors" : [ "Bruno Lowagie" ],
+        "isbn" : "1935182617",
+        "pageCount" : 600,
+        "shortDescription" : "iText in Action, Second Edition offers an introduction and a practical guide to iText and the internals of PDF. While at the entry level iText is easy to learn, there's an astonishing range of things you can do once you dive below the surface. This book lowers the learning curve and, though numerous innovative and practical examples, unlocks the secrets hidden in Adobe's PDF Reference. The examples are in Java but they can be easily adapted to .NET using one of iText's .NET ports: iTextSharp or iText.NET.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lowagie2.jpg",
+        "title" : "iText in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182633" : {
+        "authors" : [ "Michael Hüttermann" ],
+        "isbn" : "1935182633",
+        "pageCount" : 0,
+        "shortDescription" : "Many software projects fail unnecessarily because of unclear objectives, redundant and unproductive work, cost overruns, and a host of other avoidable process problems. In response, agile processes and lightweight tooling have begun to replace traditional engineering processes throughout the development lifecycle. An agile approach to application lifecycle management improves product quality, reduces time to market, and makes for happier developers.    Agile ALM is a guide for Java developers who want to integrate flexible agile practices and lightweight tooling along all phases of the software development process. The book introduces a new vision for managing change in requirements and process more efficiently and flexibly. You'll learn powerful practices like task-based Development, where you align activities into tasks resulting in traceable artifacts, Continuous Integration, in which you frequently and systematically integrate, build, and test an application in development and using Scrum as an agile approach to release management. The effect is a more comprehensive and practical approach to build, configuration, deployment, release, test, quality, integration, and requirements management.    This book synthesizes technical and functional elements to provide a comprehensive approach to software development. You'll learn to see the whole scope of the development process as a set of defined tasks, many of which are repeated daily, and then master the tools and practices you need to accomplish each of those tasks efficiently.    Because efficient tool chains can radically improve the speed and fluidity of the development process, this book demonstrates how to integrate state-of-the-art lightweight tools. Many of the tools and examples are Java-based, but the Agile ALM principles apply to all development platforms. As well, the many examples show how you can bridge different languages and systems.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/huettermann.jpg",
+        "title" : "Agile ALM",
+        "totalbooks" : 6
+      },
+      "1935182706" : {
+        "authors" : [ "Joshua D. Suereth" ],
+        "isbn" : "1935182706",
+        "pageCount" : 0,
+        "shortDescription" : "Scala in Depth is a unique new book designed to help you integrate Scala effectively into your development process. By presenting the emerging best practices and designs from the Scala community, it guides you though dozens of powerful techniques example by example. There's no heavy-handed theory here-just lots of crisp, practical guides for coding in Scala.    For example:        * Discover the \"sweet spots\" where object-oriented and functional programming intersect.      * Master advanced OO features of Scala, including type member inheritance, multiple inheritance and composition.      * Employ functional programming concepts like tail recursion, immutability, and monadic operations.      * Learn good Scala style to keep your code concise, expressive and readable.    As you dig into the book, you'll start to appreciate what makes Scala really shine. For instance, the Scala type system is very, very powerful; this book provides use case approaches to manipulating the type system and covers how to use type constraints to enforce design constraints. Java developers love Scala's deep integration with Java and the JVM Ecosystem, and this book shows you how to leverage it effectively and work around the rough spots.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth.jpg",
+        "title" : "Scala in Depth",
+        "totalbooks" : 6
+      },
+      "1935182714" : {
+        "authors" : [ "Phil Wicklund" ],
+        "isbn" : "1935182714",
+        "pageCount" : 360,
+        "shortDescription" : "SharePoint 2010 Workflows in Action is a hands-on guide for workflow application development in SharePoint. Power users are introduced to the simplicity of building and integrating workflows using SharePoint Designer, Visio, InfoPath, and Office. Developers will learn to build custom processes and use external data sources. They will learn about state machine workflows, ASP.NET forms, event handlers, and much more. This book requires no previous experience with workflow app development. ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wicklund.jpg",
+        "title" : "SharePoint 2010 Workflows in Action",
+        "totalbooks" : 6
+      },
+      "1935182722" : {
+        "authors" : [ "W. Frank Ableson", "Robi Sen" ],
+        "isbn" : "1935182722",
+        "pageCount" : 592,
+        "shortDescription" : "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
+        "title" : "Android in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "1935182730" : {
+        "authors" : [ "Ian W. Stirk" ],
+        "isbn" : "1935182730",
+        "pageCount" : 352,
+        "shortDescription" : "SQL Server DMVs in Action shows you how to obtain, interpret, and act on the information captured by DMVs to keep your system in top shape. The over 100 code examples help you master DMVs and give you an instantly reusable SQL library. You'll also learn to use Dynamic Management Functions (DMFs), which provide further details that enable you to improve your system's performance and health.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/stirk.jpg",
+        "title" : "SQL Server DMVs in Action",
+        "totalbooks" : 6
+      },
+      "1935182773" : {
+        "authors" : [ "Wictor Wilén" ],
+        "isbn" : "1935182773",
+        "pageCount" : 448,
+        "shortDescription" : "SharePoint 2010 Web Parts in Action is a comprehensive guide to deploying, customizing, and creating Web Parts. Countless examples walk you through everything from design, to development, deployment, troubleshooting, and upgrading. Because Web Parts are ASP.NET controls, you'll learn to use Visual Studio 2010 to extend existing Web Parts and to build custom components from scratch. ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilen.jpg",
+        "title" : "SharePoint 2010 Web Parts in Action",
+        "totalbooks" : 6
+      },
+      "1935182870" : {
+        "authors" : [ "Kyle Banker" ],
+        "isbn" : "1935182870",
+        "pageCount" : 0,
+        "shortDescription" : "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker.jpg",
+        "title" : "MongoDB in Action",
+        "totalbooks" : 6
+      },
+      "1935182897" : {
+        "authors" : [ "Rob Crowther" ],
+        "isbn" : "1935182897",
+        "pageCount" : 325,
+        "shortDescription" : "Quick and Easy HTML5 and CSS3 is written for the web designer or developer who wants a fast, example-oriented introduction to the new HTML and CSS features. After a quick review of the basics, you'll turn to what's new. Start by learning to apply important new elements and attributes by building your first real HTML5 pages. You'll then take a quick tour through the new APIs: Form Validation, Canvas, Drag & Drop, Geolocation and Offline Applications. You'll also discover how to include video and audio on your pages without plug-ins, and how to draw interactive vector graphics with SVG.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther.jpg",
+        "title" : "Hello! HTML5 & CSS3",
+        "totalbooks" : 5
+      },
+      "1935182927" : {
+        "authors" : [ "Charlie Collins", "Michael D. Galpin", "", "Matthias Kaeppler" ],
+        "isbn" : "1935182927",
+        "pageCount" : 500,
+        "shortDescription" : "Android in Practice is treasure trove of Android goodness, with over 100 tested, ready-to-use techniques including complete end-to-end example applications and practical tips for real world mobile application developers. Written by real world Android developers, this book addresses the trickiest questions raised in forums and mailing lists. Using an easy-to-follow problem/solution/discussion format, it dives into important topics not covered in other Android books, like advanced drawing and graphics, testing and instrumentation, building and deploying applications, using alternative languages, and native development.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/collins.jpg",
+        "title" : "Android in Practice",
+        "totalbooks" : 6
+      },
+      "1935182943" : {
+        "authors" : [ "Kenneth A. Kousen" ],
+        "isbn" : "1935182943",
+        "pageCount" : 0,
+        "shortDescription" : "Making Java Groovy is a practical handbook for developers who want to blend Groovy into their day-to-day work with Java. It starts by introducing the key differences between Java and Groovy   and how you can use them to your advantage. Then, it guides you step-by-step through realistic development challenges, from web applications to web services to desktop applications, and shows how Groovy makes them easier to put into production.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kousen.jpg",
+        "title" : "Making Java Groovy",
+        "totalbooks" : 6
+      },
+      "1935182994" : {
+        "authors" : [ "Debu Panda", "Reza Rahman", "Ryan Cuprak", "", "Michael Remijan" ],
+        "isbn" : "1935182994",
+        "pageCount" : 0,
+        "shortDescription" : "Building on the bestselling first edition, EJB 3 in Action, Second Edition tackles EJB 3.1 head-on, through numerous code samples, real-life scenarios, and illustrations. This book is a fast-paced tutorial for Java EE 6 business component development using EJB 3.1, JPA 2 and CDI. Besides covering the basics of EJB 3.1, this book includes in-depth EJB 3.1 internal implementation details, best practices, design patterns, and performance tuning tips. The book also discusses using open source frameworks like Seam and Spring with EJB 3.1.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/panda2.jpg",
+        "title" : "EJB 3 in Action, Second Edition",
+        "totalbooks" : 6
+      },
+      "013268327X" : {
+        "authors" : [ "Evan Rosen" ],
+        "isbn" : "013268327X",
+        "pageCount" : 420,
+        "shortDescription" : "\"Personal Videoconferencing is having an enormous impact on business. Evan Rosen has quantified that impact with examples of real world implementations and provided a primer on how businesses can achieve this competitive advantage for themselves.\"  --Frank Gill, Executive Vice President, Internet and Communications Group, Intel    \"The book is very good: it is clear and the examples of user applications are excellent\"  --Ralph Ungermann, CEO, First Virtual Corporation ",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosen.jpg",
+        "title" : "Personal Videoconferencing",
+        "totalbooks" : 6
+      },
+      "013319955X" : {
+        "authors" : [ "Gary Scott Malkin" ],
+        "isbn" : "013319955X",
+        "pageCount" : 208,
+        "shortDescription" : "This glossary offers a complete collection of technical terms and acronyms used in the networking industry.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/malkin.jpg",
+        "title" : "Comprehensive Networking Glossary and Acronym Guide",
+        "totalbooks" : 6
+      },
+      "193239415X" : {
+        "authors" : [ "Christian Bauer", "Gavin King" ],
+        "isbn" : "193239415X",
+        "pageCount" : 400,
+        "shortDescription" : "\"2005 Best Java Book!\" -- Java Developer's Journal",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer.jpg",
+        "title" : "Hibernate in Action",
+        "totalbooks" : 6
+      },
+      "193239477X" : {
+        "authors" : [ "Darren Neimke" ],
+        "isbn" : "193239477X",
+        "pageCount" : 344,
+        "shortDescription" : "\"ASP.NET Web Parts in Action is a must read book for every developer who wants to extend his knowledge of the ASP.NET framework.\" -- Simon Busoli, DotNetSlackers.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neimke.jpg",
+        "title" : "ASP.NET 2.0 Web Parts in Action",
+        "totalbooks" : 6
+      },
+      "193239480X" : {
+        "authors" : [ "Steve Loughran", "Erik Hatcher" ],
+        "isbn" : "193239480X",
+        "pageCount" : 600,
+        "shortDescription" : "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team enterprise projects. And, most important, it   s easy to learn.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/loughran.jpg",
+        "title" : "Ant in Action",
+        "totalbooks" : 6
+      },
+      "193398838X" : {
+        "authors" : [ "Grant S. Ingersoll", "Thomas S. Morton", "", "Andrew L. Farris" ],
+        "isbn" : "193398838X",
+        "pageCount" : 350,
+        "shortDescription" : "Taming Text is a hands-on, example-driven guide to working with unstructured text in the context of real-world applications. This book explores how to automatically organize text using approaches such as full-text search, proper name recognition, clustering, tagging, information extraction, and summarization. The book guides you through examples illustrating each of these topics, as well as the foundations upon which they are built.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ingersoll.jpg",
+        "title" : "Taming Text",
+        "totalbooks" : 6
+      },
+      "193398855X" : {
+        "authors" : [ "Dhanji R. Prasanna" ],
+        "isbn" : "193398855X",
+        "pageCount" : 352,
+        "shortDescription" : "   If you do large scale java apps, you probably want to have someone on the team have this book.       Michael Neale",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/prasanna.jpg",
+        "title" : "Dependency Injection",
+        "totalbooks" : 6
+      },
+      "193398869X" : {
+        "authors" : [ "John Resig" ],
+        "isbn" : "193398869X",
+        "pageCount" : 300,
+        "shortDescription" : "   Secrets of the Javascript Ninja is definitely a book for anyone looking to significantly improve their Javascript knowledge and skills.       Ryan Doherty, Web Development Engineer, Mozilla",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/resig.jpg",
+        "title" : "Secrets of the JavaScript Ninja",
+        "totalbooks" : 6
+      },
+      "193398886X" : {
+        "authors" : [ "Christopher Allen", "Shannon Appelcline" ],
+        "isbn" : "193398886X",
+        "pageCount" : 472,
+        "shortDescription" : "   There is not another iPhone title that does such a great coverage of both Web and SDK topics under one roof, thus providing a well-rounded developer education.       Vladimir Pasman, Cocoacast.com",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/callen.jpg",
+        "title" : "iPhone in Action",
+        "totalbooks" : 6
+      },
+      "193518217X" : {
+        "authors" : [ "Alexandre de Castro Alves" ],
+        "isbn" : "193518217X",
+        "pageCount" : 325,
+        "shortDescription" : "Enterprise OSGi shows a Java developer how to develop to the OSGi Service Platform Enterprise specification, an emerging Java-based technology for developing modular enterprise applications. Enterprise OSGi addresses several shortcomings of existing enterprise platforms, such as allowing the creation of better maintainable and extensible applications, and provide a simpler, easier-to-use, light-weight solution to enterprise software development.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
+        "title" : "OSGi in Depth",
+        "totalbooks" : 6
+      },
+      "193518220X" : {
+        "authors" : [ "Naomi R. Ceder" ],
+        "isbn" : "193518220X",
+        "pageCount" : 360,
+        "shortDescription" : "This revision of Manning's popular The Quick Python Book offers a clear, crisp introduction to the elegant Python programming language and its famously easy-to-read syntax. Written for programmers new to Python, this updated edition covers features common to other languages concisely, while introducing Python's comprehensive standard functions library and unique features in detail.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ceder.jpg",
+        "title" : "The Quick Python Book, Second Edition",
+        "totalbooks" : 6
+      },
+      "193518234X" : {
+        "authors" : [ "Jerome Louvel", "Thierry Boileau", "", "Philippe Mougin" ],
+        "isbn" : "193518234X",
+        "pageCount" : 450,
+        "shortDescription" : "Restlet in Action gets you started with the Restlet Framework and the REST architecture style. You'll create and deploy applications in record time while learning to use popular RESTful Web APIs effectively. This book looks at the many faces of web development, including server- and client-side, along with cloud computing, mobile Android devices, and semantic web applications. It offers a particular focus on Google's innovative Google Web Toolkit, Google App Engine, and Android technologies.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/louvel.jpg",
+        "title" : "Restlet in Action",
+        "totalbooks" : 6
+      },
+      "193518248X" : {
+        "authors" : [ "Chris Hay", "Brian H. Prince" ],
+        "isbn" : "193518248X",
+        "pageCount" : 425,
+        "shortDescription" : "Azure in Action is a fast-paced tutorial intended for architects and developers looking to develop on Windows Azure and the Windows Azure Platform. It's designed both for readers new to cloud concepts and for those familiar with cloud development but new to Azure. After a quick walk through the basics, it guides you all the way from your first app through more advanced concepts of the Windows Azure Platform.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hay.jpg",
+        "title" : "Azure in Action",
+        "totalbooks" : 6
+      },
+      "193518279X" : {
+        "authors" : [ "Jeffrey Palermo", "Ben Scheirman", "Jimmy Bogard", "Eric Hexter", "", "Matthew Hinze" ],
+        "isbn" : "193518279X",
+        "pageCount" : 432,
+        "shortDescription" : "ASP.NET MVC 2 in Action is a fast-paced tutorial designed to introduce the MVC model to ASP.NET developers and show how to apply it effectively. After a high-speed ramp up, the book presents over 25 concise chapters exploring key topics like validation, routing, and data access. Each topic is illustrated with its own example so it's easy to dip into the book without reading in sequence. This book covers some high-value, high-end techniques you won't find anywhere else!",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo2.jpg",
+        "title" : "ASP.NET MVC 2 in Action",
+        "totalbooks" : 6
+      },
+      "6251511656" : {
+        "authors" : "sriram",
+        "isbn" : "6251511656",
+        "pageCount" : "200",
+        "shortDescription" : "jutiuthgjuu",
+        "thumbnailUrl" : "https://www.samanthaming.com/images/samantha-ming-logo.svg",
+        "title" : "jhjjfgdtd",
+        "totalbooks" : "5"
+      },
+      "9781935182047" : {
+        "authors" : [ "Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen", "Kalen Delaney", "Greg Low", "Adam Machanic", "Paul S. Randal", "", "Kimberly L. Tripp" ],
+        "isbn" : "9781935182047",
+        "pageCount" : 848,
+        "shortDescription" : "SQL Server MVP Deep Dives is organized into five parts: Design and Architecture, Development, Administration, Performance Tuning and Optimization, and Business Intelligence. In each, you'll find concise, brilliantly clear chapters that take on key topics like mobile data strategies, Dynamic Management Views, or query performance.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsenaw.jpg",
+        "title" : "SQL Server MVP Deep Dives",
+        "totalbooks" : 6
+      },
+      "9781935182078" : {
+        "authors" : [ "Gabe Zichermann", "Chris Cunningham" ],
+        "isbn" : "9781935182078",
+        "pageCount" : 325,
+        "shortDescription" : "The Engaging Web: How Fun and Games Improve Your Site shows web developers how to incorporate games into websites. This book will help you decode the possibilities and provide a series of proven and tangible strategies that any web developer, producer, or product manager can use to implement games in their website. Whether you're looking to make games the centerpiece of your site, an added-value feature, or you just want to engage and excite your users, The Engaging Web will help you develop a strategy that harnesses the power of games.",
+        "thumbnailUrl" : "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/zichermann.jpg",
+        "title" : "The Engaging Web",
+        "totalbooks" : 6
+      }
+    },
+    "pickedbooks" : {
+      "17bei0211884777538" : {
+        "RegNo" : "17bei021",
+        "booktitle" : "The Awesome Power of PowerJ",
+        "isbn" : "1884777538",
+        "reciveddate" : "20 Feb 2021",
+        "studentname" : "sriram rajah",
+        "studentuid" : "gw0RWOZIA4SFpirmvCayrn7A9br2",
+        "submitiondata" : "27 Feb 2021"
+      },
+      "17bei0211884777589" : {
+        "RegNo" : "17bei021",
+        "booktitle" : "Magical A-Life Avatars",
+        "isbn" : "1884777589",
+        "reciveddate" : "20 Feb 2021",
+        "studentname" : "sriram rajah",
+        "studentuid" : "gw0RWOZIA4SFpirmvCayrn7A9br2",
+        "submitiondata" : "27 Feb 2021"
+      },
+      "17bei0211932394133" : {
+        "RegNo" : "17bei021",
+        "booktitle" : "Technology Paradise Lost",
+        "isbn" : "1932394133",
+        "reciveddate" : "20 Feb 2021",
+        "studentname" : "sriram rajah",
+        "studentuid" : "gw0RWOZIA4SFpirmvCayrn7A9br2",
+        "submitiondata" : "27 Feb 2021"
+      },
+      "17bei0211932394419" : {
+        "RegNo" : "17bei021",
+        "booktitle" : "Hibernate Quickly",
+        "isbn" : "1932394419",
+        "reciveddate" : "20 Feb 2021",
+        "studentname" : "sriram rajah",
+        "studentuid" : "gw0RWOZIA4SFpirmvCayrn7A9br2",
+        "submitiondata" : "27 Feb 2021"
+      }
+    }
+  },
+  "details" : {
+    "gw0RWOZIA4SFpirmvCayrn7A9br2" : {
+      "MobileNumber" : "8825673083",
+      "RegNo" : "17bei021",
+      "alternativeNumber" : "",
+      "fathername" : "rajah",
+      "fine" : 0,
+      "firstName" : "sriram",
+      "imageurl" : "https://firebasestorage.googleapis.com/v0/b/sensorsdatas.appspot.com/o/users%2Fgw0RWOZIA4SFpirmvCayrn7A9br2%2Fprofile.jpg?alt=media&token=20923beb-1a26-4451-8cc3-ce5152d378a4",
+      "isstaff" : true,
+      "lastname" : "rajah",
+      "mothername" : "devi",
+      "profileimage" : "",
+      "recivebooks" : {
+        "1884777538" : {
+          "booktitle" : "The Awesome Power of PowerJ",
+          "isbn" : "1884777538",
+          "reciveddate" : "20 Feb 2021",
+          "status" : "Not-submited",
+          "submitiondata" : "27 Feb 2021"
+        },
+        "1884777589" : {
+          "booktitle" : "Magical A-Life Avatars",
+          "isbn" : "1884777589",
+          "reciveddate" : "20 Feb 2021",
+          "status" : "Not-submited",
+          "submitiondata" : "27 Feb 2021"
+        },
+        "1932394133" : {
+          "booktitle" : "Technology Paradise Lost",
+          "isbn" : "1932394133",
+          "reciveddate" : "20 Feb 2021",
+          "status" : "Not-submited",
+          "submitiondata" : "27 Feb 2021"
+        },
+        "1932394419" : {
+          "booktitle" : "Hibernate Quickly",
+          "isbn" : "1932394419",
+          "reciveddate" : "20 Feb 2021",
+          "status" : "Not-submited",
+          "submitiondata" : "27 Feb 2021"
+        }
+      },
+      "updated" : true
+    }
+  }
+}
